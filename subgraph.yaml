@@ -6,9 +6,9 @@ dataSources:
     name: CaseReward
     network: kovan
     source:
-      address: '0x9A41cC35720B97E2682AD850DfB17dfDE0D192d1'
+      address: '0x4fd9A8367f4Cb26A2FEe304610B241b2560125B3'
       abi: CaseReward
-      startBlock: 26533166
+      startBlock: 26595137
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
@@ -36,9 +36,9 @@ dataSources:
     name: CaseStaking
     network: kovan
     source:
-      address: '0xF1955aE5Ba0dAdCA26dE0196dd458f203C17ED89'
+      address: '0x23F9D8f999D103265bE54596fF8C359dC5e3e970'
       abi: CaseStaking
-      startBlock: 26533153
+      startBlock: 26595124
     mapping:
       kind: ethereum/events
       apiVersion: 0.0.4
